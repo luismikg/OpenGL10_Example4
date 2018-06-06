@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="54f3d7689a039e7b76d5cd7bf1349614c1fa7786">
+        <dex dex="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d31cd1deff11d84e0be94586c20cb6db7980f8d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="677721bf38ccd695f6790d397d3cd333466e4432">
+        <dex dex="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_acccaf9702d06add8e18c1e4995cdde8c8ab3e47/classes.dex" />
+    </item>
+
+</items>

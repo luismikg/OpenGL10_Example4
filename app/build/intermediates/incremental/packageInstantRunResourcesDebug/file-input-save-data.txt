@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Tue Nov 15 11:03:01 CST 2016
+1.base=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.base=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/res/resources-debug.ap_
+0.file=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example4/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
